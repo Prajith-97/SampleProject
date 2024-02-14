@@ -1,0 +1,10 @@
+{
+  "browserConfig":{
+    "url": "https://www.newel.com/product/pair-of-carl-malmsten-art-deco-swedish-inlaid-high-back-upholstered-armchairs",
+    "browser": "chrome"
+  },
+  "browser": {
+    "name": "chrome",
+    "url": "https://amazon.in"
+  }
+}

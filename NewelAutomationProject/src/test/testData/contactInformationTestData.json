@@ -1,0 +1,18 @@
+{
+  "pickUpDate": {
+    "month": "December",
+    "date": "11",
+    "year": "2023"
+  },
+  "returnDate": {
+    "month": "January",
+    "date": "21",
+    "year": "2024"
+  },
+  "reviewOrderPageScenario1": {
+    "reviewHeader": "REVIEW ORDER DETAILS"
+  },
+  "submitRequestUrlScenario2": {
+    "expectedUrl": "https://www.newel.com/thank-you"
+  }
+}

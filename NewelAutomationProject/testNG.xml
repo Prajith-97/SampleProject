@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "Test Suite">
+    <parameter name="browserName" value="chrome"/>
+    <test name="NEWEL AUTOMATION PROJECT">
+        <classes>
+            <class name="runner.runner"/>
+        </classes>
+    </test>
+</suite>
